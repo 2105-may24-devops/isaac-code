@@ -1,5 +1,5 @@
 bash is a shell program that lets us run many programs
-    using a text-based interface.
+    using a text-based interface. it is derived from sh.
 
 some commands:
     cd <dir>
