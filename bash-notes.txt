@@ -65,3 +65,5 @@ exercises (with just the command line):
 bash keeps history of all your typed commands
     up-arrow accesses history.
 tab completion
+
+$(expr) - evaluates expr and returns it as a string.
